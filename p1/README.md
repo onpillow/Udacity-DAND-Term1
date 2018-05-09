@@ -1,14 +1,14 @@
 # P1: Explore US Bikeshare Data
 ## Overview
-In this project, I write a Python script to create an interactive exprience in the terminal to present statistics for US Bikeshare Data in three major cities.
-Through the interactive exprience, user can get summary statistics of bike share systems in Chicago, New York City, or Washington. The statistics include: top 3 common birth year of users, top 3 popular start station, etc. For more statistics details, see [Statistics Computed](#statistics-computed).
+In this project, I wrote a Python script to create an interactive exprience in the terminal to present statistics for US Bikeshare Data in three major cities.
+Through the interactive exprience, user would get summary statistics of bike share systems in Chicago, New York City, or Washington. The statistics include: top 3 common birth year of users, top 3 popular start station, etc. For more statistics details, see [Statistics Computed](#statistics-computed).
 The data time period is the first six months of 2017, user can filter data by month, week day of week, or just investigate all duration.
 ## Installation and Requirements
 - Python v3.6 or later.
 - Download all three [data files](https://github.com/onpillow/Udacity-DAND-Term1/tree/master/p1/bikeshare_rawdata), be sure to include the raw data `chicago.csv`,
 `new_york_city.csv`, and `washington.csv`.
 - Download `bike_share.py` file from the [repo](https://github.com/onpillow/Udacity-DAND-Term1/tree/master/p1), and put it with `chicago.csv`,`new_york_city.csv`,`washington.csv`in the same folder.
-- Run `bike_share.py` file from my repo.
+- Run `bike_share.py`.
 ## Statistics Computed
 
 ### 1. Popular times of travel (i.e., occurs most often in the start time)
