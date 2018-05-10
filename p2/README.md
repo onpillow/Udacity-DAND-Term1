@@ -1,8 +1,8 @@
 # P2: Investigate a TMDb Movie Dataset
 ## Overview
-In this project, I analysised the TMDb movie dataset by using Python libraries NumPy, pandas, and Matplotlib. The dataset, which is originaliy from [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata/data), was cleaned and provided by Udacity. The dataset contains 5000+ movies basic information and some metrics that measured can be classied how successful these movies are. These metrics include popularity, revenue and vote average. Basic information are like cast, director, keywords, runtime, genres, etc. 
+In this project, I analyzed the TMDb movie dataset by using Python libraries NumPy, pandas, and Matplotlib. The dataset, which is originally from [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata/data), was cleaned and provided by Udacity. The dataset contains 5000+ movies basic information and some metrics that measured can be classified how successful these movies are. These metrics include popularity, revenue and vote average. Basic information are like cast, director, keywords, runtime, genres, etc. 
 
-Since it contains plentiful information, the project I investigated is focus on finding properties are associated with successful movies. Besides I also invesgated some interesting trends like keywords trends by generation. For more investigation questions, see [Question Researched](#question-researched).
+Since it contains plentiful information, the project I investigated is focus on finding properties are associated with successful movies. Besides I also investigated some interesting trends like keywords trends by generation. For more investigation questions, see [Question Researched](#question-researched).
 
 The project primary goal is to go through the general data analysis process, so the project report is including four parts: 
 - questions asking 
