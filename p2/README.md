@@ -10,7 +10,7 @@ The project primary goal is to go through the general data analysis process, so 
 - exploratory data analysis 
 - conclusion
 
-Just feel free to see my finding in the [Jupyter Notebook](https://github.com/onpillow/Udacity-DAND-Term1/blob/master/p2/Investigate_a_Dataset.ipynb)!
+See my findings in the [Jupyter Notebook](https://github.com/onpillow/Udacity-DAND-Term1/blob/master/p2/Investigate_a_Dataset.ipynb)!
 
 ## Question Researched
 ### Part 1: General Explore
@@ -37,10 +37,11 @@ Just feel free to see my finding in the [Jupyter Notebook](https://github.com/on
 |1| Woody Allen | Drama | based on novel |
 |2| Martin Scorsese | Comedy | 	independent film |
 |3| Clint Eastwood | Thriller | woman director |
-- Keywords trends by generation
-![Keywords trends](https://github.com/onpillow/Udacity-DAND-Term1/blob/master/p2/result_image/keyword_trend.png)
-- Genres trends by generation
-![Genres trends](https://github.com/onpillow/Udacity-DAND-Term1/blob/master/p2/result_image/genres_trends.png)
+- Keywords and genres trends by generation
+
+Keywords Trends            |  Genres Trends
+:-------------------------:|:-------------------------:
+![image](https://github.com/onpillow/Udacity-DAND-Term1/blob/master/p2/result_image/keyword_trend.png)  |  ![image](https://github.com/onpillow/Udacity-DAND-Term1/blob/master/p2/result_image/genres_trends.png)
 
 ## License
 [MIT License](https://github.com/onpillow/Udacity-DAND-Term1/blob/master/p2/LICENSE)
