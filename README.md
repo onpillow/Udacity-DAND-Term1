@@ -12,4 +12,5 @@ In this project, I wrote a Python script to create an interactive exprience in t
 
 ## P2: Investigate a TMDb Movie Dataset
 In this project, I analyzed the TMDb movie dataset by using Python libraries NumPy, pandas, and Matplotlib. The dataset, which is originally from [Kaggle](https://www.kaggle.com/tmdb/tmdb-movie-metadata/data), was cleaned and provided by Udacity. The dataset contains 5000+ movies basic information and some metrics that measured can be classified how successful these movies are. These metrics include popularity, revenue and vote average. Basic information are like cast, director, keywords, runtime, genres, etc. The goal for this project is to go through the general data analysis process project. And the research I investigated is focus on finding properties are associated with successful movies as well as some interesting trends like keywords trends by generation.
+
 [Link to my project](https://github.com/onpillow/Udacity-DAND-Term1/tree/master/p2)
