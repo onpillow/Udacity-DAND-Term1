@@ -43,5 +43,6 @@ Keywords Trends            |  Genres Trends
 :-------------------------:|:-------------------------:
 ![image](https://github.com/onpillow/Udacity-DAND-Term1/blob/master/p2/result_image/keyword_trend.png)  |  ![image](https://github.com/onpillow/Udacity-DAND-Term1/blob/master/p2/result_image/genres_trends.png)
 
+For more details and ideas, check out my blog [article](https://medium.com/@onpillow/01-investigate-tmdb-movie-dataset-python-data-analysis-project-part-1-data-wrangling-3d2b55ea7714).
 ## License
 [MIT License](https://github.com/onpillow/Udacity-DAND-Term1/blob/master/p2/LICENSE)
