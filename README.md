@@ -16,3 +16,10 @@ In this project, I analyzed the TMDb movie dataset by using Python libraries Num
 [Link to my project](https://github.com/onpillow/Udacity-DAND-Term1/tree/master/p2)
 
 [Link to my blog article for the project](https://medium.com/@onpillow/01-investigate-tmdb-movie-dataset-python-data-analysis-project-part-1-data-wrangling-3d2b55ea7714)
+
+## P3: Analyze A/B Test Results
+
+In this project, I demonstrated a A/B Test for a e-commerce company's website to decide whether they should implement their new page or keep the old page. Using the data with groups of control, treatment and their conversion, I performed the two-tailed hypothesis test and regression approach to determine results. The technique was primary using Python and I used the Boostrate Sampling method to perform the hypothesis test. Besides, I also demonstrated z-test to comoare the results. The regression method was Logit Regression, and the goal was to see if there is a significant difference in conversion based on which page a customer receives.
+
+[Link to my project](https://github.com/onpillow/Udacity-DAND-Term1/tree/master/p3)
+
